@@ -1,0 +1,6 @@
+defaults:
+  -
+    scope:
+      paths: ""
+    values:
+      layout: "default"
