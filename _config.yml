@@ -5,4 +5,4 @@ defaults:
     values:
       layout: "default"
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
