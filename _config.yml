@@ -4,3 +4,5 @@ defaults:
       paths: ""
     values:
       layout: "default"
+
+theme: jekyll-theme-time-machine
