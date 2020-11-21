@@ -4,5 +4,5 @@ defaults:
       paths: ""
     values:
       layout: "default"
-
+permalink: /:categories/:title:output_ext
 theme: jekyll-theme-minimal
