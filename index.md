@@ -4,55 +4,10 @@
 
 layout: default
 ---
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
-A bunch of words is all I need to test my website so I'll just keep typing and then start copying.
+Hello! This website is a conglomeration of all my work. 
+
+If you are looking for the Python course I made, go to teaching. This also contians some problem sets and solutions for different courses I have taught/taken.
+
+If you are curious about my research, go to the projects pages.
+
+If you are interested in reading some of my poetry and my favorite poems, see poems. 
