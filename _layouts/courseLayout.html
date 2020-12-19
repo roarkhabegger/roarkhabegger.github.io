@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="default" content="width-device-width, initial-scale=1">
+<meta name="courseLayout" content="width-device-width, initial-scale=1">
 <link rel="stylesheet" href= "/style/index.css" />
 </head>
 
@@ -21,14 +21,19 @@
 </div>
 
 <div class="main">
-
-<h1> Research Projects </h1>
-
-<p>This is a collection of my research projects.</p>
-
-<p><a href="/projects/project1/"> Project Title </a></p>
-
-
+<p>
+&nbsp; 
+&nbsp; 
+<a href="/teaching/">Courses</a>
+&nbsp;
+&nbsp; 
+</p>
+<h2> {{ page.title }} </h2>
+{{ content }}
+</br>
+<p> Originally Posted: {{page.postDate}} 
+ </br>
+ Last Edit: {{page.lastDate}} </p>
 </div>
 
 
