@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="courseLayout" content="width-device-width, initial-scale=1">
+<meta name="lessonLayout" content="width-device-width, initial-scale=1">
 <link rel="stylesheet" href= "/style/index.css" />
 </head>
 
@@ -22,20 +22,24 @@
 
 <div class="main">
 <p>
+&nbsp
+<a href="/teaching/">All Courses</a>
+</p>
+<p>
 &nbsp; 
+<a href="{{ page.LastURL }}">{{ page.LastTitle }}</a>
 &nbsp; 
-<a href="/teaching/">Courses</a>
+<a href="{{ page.CourseURL }}">{{ page.CourseTitle }}</a>
 &nbsp;
+<a href="{{ page.NextURL }}">{{ page.NextTitle }}</a>
 &nbsp; 
 </p>
-<h2> Course Title </h2>
-<p>This is my new Course 1.</p>
-
-
+<h2> {{ page.title }} </h2>
+{{ content }}
 </br>
-<p> Originally Posted: 2020-12-20 
+<p> Originally Posted: {{page.postDate}} 
  </br>
- Last Edit: 2020-12-20 </p>
+ Last Edit: {{page.lastDate}} </p>
 </div>
 
 

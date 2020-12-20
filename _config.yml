@@ -24,6 +24,9 @@ collections:
     output: true
   courses:
     output: true
+  Python:
+    output: true
+    sour_by: lessonNum
 # Build settings
 #plugins:
 #  - jekyll-feed
