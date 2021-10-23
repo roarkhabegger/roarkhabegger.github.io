@@ -3,9 +3,10 @@ title: Roark Habegger
 email: roarkhabegger@gmail.com
 collections:
    projects:
-     output: true
-   courses:
-     output: true
+     name: Research Projects
+   notes:
+     name: Astrophysics Notes
+  
 #   Python:
 #     output: true
 #     sort_by: lessonNum
