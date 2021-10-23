@@ -1,2 +1,14 @@
 theme: jekyll-theme-modernist
 title: Roark Habegger
+email: roarkhabegger@gmail.com
+collections:
+   projects:
+     output: true
+   courses:
+     output: true
+#   Python:
+#     output: true
+#     sort_by: lessonNum
+#   Stellar:
+#     output: true
+#     sour_by: lessonNum
