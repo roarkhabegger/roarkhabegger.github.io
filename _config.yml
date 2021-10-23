@@ -4,9 +4,11 @@ email: roarkhabegger@gmail.com
 collections:
    projects:
      name: Research Projects
+     url: /projects/
    notes:
      name: Astrophysics Notes
-  
+     url: /notes/
+
 #   Python:
 #     output: true
 #     sort_by: lessonNum
