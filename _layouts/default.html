@@ -30,11 +30,13 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-        {% for collection in site.collections %}
         <ul>
+        {% for collection in site.collections %}
+
           <li><a href="{{ collection.link }}"> {{ collection.name }}</a></li>
-        </ul>
+
         {% endfor %}
+        </ul>
       </header>
       <section>
 
