@@ -5,10 +5,12 @@ collections:
    projects:
      name: Research Projects
      link: /projects/
+     display: true
      output: true
    notes:
      name: Astrophysics Notes
      link: /notes/
+     display: true
      output: true
 
 #   Python:
