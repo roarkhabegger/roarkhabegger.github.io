@@ -5,9 +5,11 @@ collections:
    projects:
      name: Research Projects
      url: /projects/
+     output: true
    notes:
      name: Astrophysics Notes
      url: /notes/
+     output: true
 
 #   Python:
 #     output: true
