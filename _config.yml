@@ -4,11 +4,11 @@ email: roarkhabegger@gmail.com
 collections:
    projects:
      name: Research Projects
-     #url: /projects/
+     link: /projects/
      output: true
    notes:
      name: Astrophysics Notes
-     #url: /notes/
+     link: /notes/
      output: true
 
 #   Python:
