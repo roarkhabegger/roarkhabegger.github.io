@@ -8,7 +8,7 @@ collections:
      display: true
      output: true
    notes:
-     name: Astrophysics Notes
+     name: Course Notes
      link: /notes/
      display: true
      output: true
