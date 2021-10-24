@@ -26,7 +26,7 @@
         <ul>
         {% for collection in site.collections reversed %}
           {% if collection.display %}
-          <li><a href="{{ collection.link }}"> {{ collection.name }}</a></li>
+          <li><a href="{{ collection.link }}"> <strong> {{ collection.name }} </strong></a></li>
           {% endif %}
         {% endfor %}
         </ul>
