@@ -27,19 +27,16 @@
           {% endif %}
         {% endfor %}
         </ul>
+        <p> Email me at {{ site.email }} </p>
+
       </header>
       <section>
-
-
-
       {{ content }}
-
+      <p> <strong> You're doing great! </strong> </p>
       </section>
     </div>
     <footer>
-      {% if site.github.is_project_page %}
-        <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-      {% endif %}
+      <p>Website maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
       <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
