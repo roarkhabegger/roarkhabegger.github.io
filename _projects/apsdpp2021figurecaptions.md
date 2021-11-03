@@ -1,7 +1,7 @@
 ---
 layout: projects_default
 permalink: /projects/apsdpp2021/
-title: 
+title: DPP Poster 2021
 ---
 
 
