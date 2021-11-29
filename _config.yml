@@ -13,12 +13,12 @@ collections:
      display: true
      output: true
    qm_grad:
-     title: Graduate Quantum Mechanics
+     name: Graduate Quantum Mechanics
      link: /notes/qm_grad/
      display: False
      output: true
    cm_grad:
-     title: Graduate Classical Mechanics
+     name: Graduate Classical Mechanics
      link: /notes/cm_grad/
      display: False
      output: true
