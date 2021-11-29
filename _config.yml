@@ -3,13 +3,20 @@ title: Roark Habegger
 email: roarkhabegger@gmail.com
 collections:
    projects:
+     title: Research Projects
      link: /projects/
      display: true
      output: true
    notes:
+     title: Course Notes
      link: /notes/
      display: true
      output: true
+     course1:
+       title: Course 1
+       link: /notes/course1/
+       display: true
+       output: true
 
 #   Python:
 #     output: true
