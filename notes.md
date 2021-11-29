@@ -8,11 +8,13 @@ Here is a list of course notes for various classes I have taken.
 
 
 ### Graduate Quantum Mechanics
+<h4>
 <ul>
 {% for lesson in site.qm_grad by lesson.lessonNum reversed %}
-   <li><a href="{{ lesson.permalink }}"><h4> {{ lesson.title }} </h4> </a></li>
+    <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
 {% endfor %}
 </ul>
+</h4>
 
 ### Graduate Classical Mechanics
 <ul>
