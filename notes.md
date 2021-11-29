@@ -4,7 +4,7 @@ layout: default
 permalink: /notes/
 ---
 
-
-{% for course in site.notes %}
-  [ {{ course.title }}  ]( {{ course.permalink }} )
+## Course 1 
+{% for lesson in site.course1 %}
+  [ {{ lesson.title }}  ]( {{ lesson.permalink }} )
 {% endfor %}
