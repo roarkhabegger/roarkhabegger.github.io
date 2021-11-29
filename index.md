@@ -3,7 +3,10 @@ title: Home
 layout: default
 permalink: /
 ---
-## This website is still under construction
 
-This link has the figure captions for my APS DPP 2021 Poster:
-[Figure Captions](/projects/apsdpp2021/)
+Hello! My name is Roark Habegger, I am a graduate student in Astronomy at the University of Wisconsin - Madison.
+This website contains information about myself and my research projects, along with notes from various courses I have taken.
+
+
+<object data="/assets/2020PostGradResume.pdf" type="application/pdf" width="90%" height=800px>
+</object>
