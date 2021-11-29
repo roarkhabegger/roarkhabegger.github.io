@@ -6,11 +6,13 @@ permalink: /notes/
 
 Here is a list of course notes for various classes I have taken.
 
-<p></p>
+
 ### Graduate Quantum Mechanics
+<ul>
 {% for lesson in site.qm_grad by lesson.lessonNum reversed %}
-  - [ {{ lesson.title }}  ]( {{ lesson.permalink }} )
+  <li> [ {{ lesson.title }}  ]( {{ lesson.permalink }} ) </li>
 {% endfor %}
+</ul>
 
 
 <p></p>
