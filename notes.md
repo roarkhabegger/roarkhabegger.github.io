@@ -6,6 +6,5 @@ permalink: /notes/
 
 
 {% for course in site.notes %}
-  [{{ course.title }}]{ {{course.permalink}} }
-
+  [ {{ course.title }}  ]( {{ course.permalink }} )
 {% endfor %}
