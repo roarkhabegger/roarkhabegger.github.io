@@ -12,9 +12,14 @@ collections:
      link: /notes/
      display: true
      output: true
-   course1:
-     title: Course 1
-     link: /notes/course1/
+   qm_grad:
+     title: Graduate Quantum Mechanics
+     link: /notes/qm_grad/
+     display: False
+     output: true
+   cm_grad:
+     title: Graduate Classical Mechanics
+     link: /notes/cm_grad/
      display: False
      output: true
 
