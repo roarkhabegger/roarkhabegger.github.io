@@ -15,7 +15,7 @@ collections:
    course1:
      title: Course 1
      link: /notes/course1/
-     display: true
+     display: False
      output: true
 
 #   Python:

@@ -1,5 +1,6 @@
 ---
 title: Course 1
+name: course1
 layout: default
 permalink: /notes/course1/
 ---
