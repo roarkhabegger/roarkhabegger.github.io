@@ -6,4 +6,4 @@ lessonNum: 1
 NextLesson: /notes/qm_grad/lec02/
 LastLesson: /notes/qm_grad/lec01/
 ---
-First lecture for Quantum Mechanics.
+In quantum mechanics, the mathematical formalism of vector spaces can simplify problems dramatically. The vector space most people are familiar with is $V^2(\mathcal{R})$
