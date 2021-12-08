@@ -6,4 +6,15 @@ lessonNum: 2
 NextLesson: /notes/qm_grad/lec03/
 LastLesson: /notes/qm_grad/lec01/
 ---
-Second lecture for Quantum Mechanics.
+
+Dirac language
+
+Commutator algebra
+
+outer product, projection operators, identity
+
+Hermitian Operators
+
+Eigenvalue Problem
+
+Spectral Reprentation and degeneracy
