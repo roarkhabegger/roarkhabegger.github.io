@@ -19,9 +19,6 @@ Now that you have some examples, here are some formal definitions:
 
 ### Linear Independence
 The idea of linear independence is crucial in quantum mechanics. Look for example at the
-{% tikz linind %}
-  \draw (0,0) -- (2,0) ;
-{% endtikz %}
 
 ### Hilbert space
 
