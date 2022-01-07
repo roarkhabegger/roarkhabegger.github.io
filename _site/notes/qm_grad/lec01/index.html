@@ -5,23 +5,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Grad QM Lecture 1 | Roark Habegger</title>
+<title>Vector Spaces | Roark Habegger</title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="Grad QM Lecture 1" />
+<meta property="og:title" content="Vector Spaces" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Vector Spaces" />
-<meta property="og:description" content="Vector Spaces" />
+<meta name="description" content="In quantum mechanics, the mathematical formalism of vector spaces can simplify problems dramatically. The vector space most people are familiar with is $V^2(\mathbb{R})$. This vector space is a collection of all vectors in the Cartesian $xy$ plane. Both $x$ and $y$ can take any real value, so they are both in $\mathbb{R}$. Since there are 2 separate degrees of freedom $(x,y)$ each vector has 2 components. Hence the vector space is $V^2(\mathbb{R})$. If you’ve ever dealt with complex numbers, you know we often visualize a complex number using a Cartesian plane. A vector space where vectors are 1 dimensional and complex valued, known as $V^1(\mathbb{C})$, has a one-to-one mapping with $V^2(\mathbb{R})$. For the vector $[x,y] \in V^2(\mathbb{R}) $, the corresponding vector in $V^1(\mathbb{C})$ is $[x+iy]$ where $i=\sqrt{-1}$." />
+<meta property="og:description" content="In quantum mechanics, the mathematical formalism of vector spaces can simplify problems dramatically. The vector space most people are familiar with is $V^2(\mathbb{R})$. This vector space is a collection of all vectors in the Cartesian $xy$ plane. Both $x$ and $y$ can take any real value, so they are both in $\mathbb{R}$. Since there are 2 separate degrees of freedom $(x,y)$ each vector has 2 components. Hence the vector space is $V^2(\mathbb{R})$. If you’ve ever dealt with complex numbers, you know we often visualize a complex number using a Cartesian plane. A vector space where vectors are 1 dimensional and complex valued, known as $V^1(\mathbb{C})$, has a one-to-one mapping with $V^2(\mathbb{R})$. For the vector $[x,y] \in V^2(\mathbb{R}) $, the corresponding vector in $V^1(\mathbb{C})$ is $[x+iy]$ where $i=\sqrt{-1}$." />
 <link rel="canonical" href="http://localhost:4000/notes/qm_grad/lec01/" />
 <meta property="og:url" content="http://localhost:4000/notes/qm_grad/lec01/" />
 <meta property="og:site_name" content="Roark Habegger" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Grad QM Lecture 1" />
+<meta property="twitter:title" content="Vector Spaces" />
 <script type="application/ld+json">
-{"description":"Vector Spaces","@type":"WebPage","url":"http://localhost:4000/notes/qm_grad/lec01/","headline":"Grad QM Lecture 1","@context":"https://schema.org"}</script>
+{"description":"In quantum mechanics, the mathematical formalism of vector spaces can simplify problems dramatically. The vector space most people are familiar with is $V^2(\\mathbb{R})$. This vector space is a collection of all vectors in the Cartesian $xy$ plane. Both $x$ and $y$ can take any real value, so they are both in $\\mathbb{R}$. Since there are 2 separate degrees of freedom $(x,y)$ each vector has 2 components. Hence the vector space is $V^2(\\mathbb{R})$. If you’ve ever dealt with complex numbers, you know we often visualize a complex number using a Cartesian plane. A vector space where vectors are 1 dimensional and complex valued, known as $V^1(\\mathbb{C})$, has a one-to-one mapping with $V^2(\\mathbb{R})$. For the vector $[x,y] \\in V^2(\\mathbb{R}) $, the corresponding vector in $V^1(\\mathbb{C})$ is $[x+iy]$ where $i=\\sqrt{-1}$.","@type":"WebPage","url":"http://localhost:4000/notes/qm_grad/lec01/","headline":"Vector Spaces","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=70786a19a34c89144a61e112cb322082ca6df8d7">
+    <link rel="stylesheet" href="/assets/css/style.css?v=4931401e79ffc4f129ba8695be3a8e21c5ccd576">
     <script src="/assets/js/scale.fix.js"></script>
     <meta name="Roark Habegger" content="width=device-width, initial-scale=1, user-scalable=no">
 
@@ -66,13 +66,27 @@
           
         
           
+        
+          
           <li><a href="/projects/"> <strong> Research Projects </strong></a></li>
           
         
           
         
           
+        
+          
           <li><a href="/notes/"> <strong> Course Notes </strong></a></li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
           
         
           
@@ -91,11 +105,9 @@
         <a href="/notes/qm_grad/lec02/"> Next Lesson </a>
         &nbsp;
       </h3>
-      <h2> Grad QM Lecture 1 </h2>
+      <h2> Vector Spaces </h2>
 
-      <h3 id="vector-spaces">Vector Spaces</h3>
-
-<p>In quantum mechanics, the mathematical formalism of vector spaces can simplify problems dramatically. The vector space most people are familiar with is $V^2(\mathbb{R})$. This vector space is a collection of all vectors in the Cartesian $xy$ plane. Both $x$ and $y$ can take any real value, so they are both in $\mathbb{R}$. Since there are 2 separate degrees of freedom $(x,y)$ each vector has 2 components. Hence the vector space is $V^2(\mathbb{R})$. If you’ve ever dealt with complex numbers, you know we often visualize a complex  number using a Cartesian plane. A vector space where vectors are 1 dimensional and complex valued, known as $V^1(\mathbb{C})$, has a one-to-one mapping with $V^2(\mathbb{R})$. For the vector $[x,y] \in V^2(\mathbb{R}) $, the corresponding vector in $V^1(\mathbb{C})$ is $[x+iy]$ where $i=\sqrt{-1}$.</p>
+      <p>In quantum mechanics, the mathematical formalism of vector spaces can simplify problems dramatically. The vector space most people are familiar with is $V^2(\mathbb{R})$. This vector space is a collection of all vectors in the Cartesian $xy$ plane. Both $x$ and $y$ can take any real value, so they are both in $\mathbb{R}$. Since there are 2 separate degrees of freedom $(x,y)$ each vector has 2 components. Hence the vector space is $V^2(\mathbb{R})$. If you’ve ever dealt with complex numbers, you know we often visualize a complex  number using a Cartesian plane. A vector space where vectors are 1 dimensional and complex valued, known as $V^1(\mathbb{C})$, has a one-to-one mapping with $V^2(\mathbb{R})$. For the vector $[x,y] \in V^2(\mathbb{R}) $, the corresponding vector in $V^1(\mathbb{C})$ is $[x+iy]$ where $i=\sqrt{-1}$.</p>
 
 <p>Now that you have some examples, here are some formal definitions:</p>
 
@@ -107,12 +119,62 @@
   <p>A <strong>Vector Space</strong> $V(F)$ is a set of vectors closed under 2 operations, vector addition and scalar multiplication. The components of each vector are scalars in the field $F$, and scalar multiplication refers to multiplication only by scalars in $F$.</p>
 </blockquote>
 
-<h3 id="linear-independence">Linear Independence</h3>
-<p>The idea of linear independence is crucial in quantum mechanics. Look for example at the</p>
+<h2 id="linear-independence">Linear Independence</h2>
+<p>The idea of linear independence is crucial in quantum mechanics. Consider the vectors in the picture below:</p>
 
-<h3 id="hilbert-space">Hilbert space</h3>
+<p><img src="/assets/LinearIndependence.png" alt="Just some vectors" width="400px" /></p>
 
-<h3 id="inner-product-spaces">Inner product spaces</h3>
+<p>The vectors in this image can be written in $ V^2(\mathbb{R}) $ like</p>
+
+<p>$\vec{A} = \begin{bmatrix} 2 \\ 1 \end{bmatrix}$
+$\vec{B} = \begin{bmatrix} 1 \\ 2 \end{bmatrix}$
+$\vec{C} = \begin{bmatrix} -2 \\ 1 \end{bmatrix}$
+$\vec{D} = \begin{bmatrix} -2 \\ -1 \end{bmatrix}$</p>
+
+<p>where the top number is their length projected on to the horizontal axis and the bottom number is their length projected on to the vertical axis.</p>
+
+<p>If two vectors are linearly independent, then that means you can not make one from the other with multiplication. For example, $\vec{A}$ and $\vec{D}$ are linearly dependent because they are related by scalar multiplication.</p>
+
+\[-1 \cdot \vec{A} = \begin{bmatrix} -2 \\\ -1 \end{bmatrix} = \vec{D}\]
+
+<p>If we tried to do the same process with any other pairing of vectors, there would be no such number. However, the property of linear independence also applies to any <em>set</em> of vectors, not just pairs of vectors. For example, lets take the set of three vectors $\{ \vec{A},\vec{B},\vec{C} \}$. This set is linearly dependent because I can write each vector as a <em>linear combination</em> of the others:</p>
+
+\[\vec{A} = \begin{bmatrix} 2 \\\ 1 \end{bmatrix} = \begin{bmatrix} \frac{4}{5} + \frac{6}{5} \\\ \frac{8}{5} - \frac{3}{5} \end{bmatrix} = \begin{bmatrix}  \frac{4}{5} \\\ \frac{8}{5} \end{bmatrix} - \begin{bmatrix} -\frac{6}{5} \\\ \frac{3}{5} \end{bmatrix} = \frac{4}{5}  \begin{bmatrix} 1  \\\ 2 \end{bmatrix} -\frac{3}{5} \begin{bmatrix} -2 \\\ 1 \end{bmatrix}\]
+
+\[\vec{A} = \frac{4}{5}  \vec{B} -\frac{3}{5} \vec{C}\]
+
+<blockquote>
+  <p>A <strong>linear combination</strong> is the addition of scalar multiples of vectors. Because a vector space is closed under vector addition and scalar multiplication, any linear combination of vectors in a vector space will be in that vector space.</p>
+</blockquote>
+
+<p>There is an important reason we label the vector space $ V^2(\mathbb{R}) $ with a $2$. If we pick two linearly independent vectors (like $\vec{B}$ and $\vec{C}$), we can make any other vector in $ V^2(\mathbb{R}) $ through a linear combination. In fact, we already did this when we wrote out the horizontal and vertical components of the vectors. If we label a horizontal vector of length $1$ as $\hat{x}$ and a vertical vector of length $1$ as $\hat{y}$, then we can write a vector as</p>
+
+\[\vec{A} = 2 \hat{x} + 1 \hat{y}\]
+
+<p>That was why we wrote $\vec{A} = \begin{bmatrix} 2 \\ 1 \end{bmatrix}$</p>
+
+<h2 id="hilbert-space">Hilbert space</h2>
+
+<p>Hilbert space, or function space, is best explained by first considering that polynomials of power $n$ define their own vector space. In this space $P^n(\mathbb{R})$, every vector can be written as some</p>
+
+\[f(x) = \sum_{i=0}^n a_i x^i\]
+
+<p>where $x, a_i \in \mathbb{R}$. If we take the vector space in the limit of $n\rightarrow \infty$, then we get a Hilbert space. In Hilbert space, every vector is a function. Depending on restrictions we place on the properties of allowed functions in the space, we can get different Hilbert spaces. However, we can just think of Hilbert space as the space of all real-vaued (or complex valued) functions. In general, we will atleast require the functions be continous in quantum mechanics.</p>
+
+<h2 id="inner-product-spaces">Inner product spaces</h2>
+<p>An inner product space is a vector space which has a well-defined inner product operation. For example, in any vector space $V^n(\mathbb{R})$ of the type we have been working with, the inner product of two vetors $\vec{A}$ and $\vec{B}$ is given by</p>
+
+\[\vec{A} \cdot \vec{B} = \sum_{j} A_j B_j\]
+
+<p>where $A_j$ are the components of the vector $\vec{A}$ in some reference frame. For a Hilbert or function space, the inner product of two real valued functions $f,g$ is generally denoted and defined by</p>
+
+\[\langle f, g \rangle = \int_{\mathbb{R}} dx f(x) g(x)$= \int_{-\infty}^{\infty} dx f(x) g(x)\]
+
+<p>where the integration is over the entire real number line. Often in quantum mechanics, we will use wavefunctions which take a real value and map it to a complex value. In this case, the inner product is</p>
+
+\[\langle f, g \rangle = \int_{-\infty}^{\infty} dx f^*(x) g(x)\]
+
+<p>where $f^*(x)$ is the complex conjugate of $f(x)$.</p>
 
       <p> <strong> You're doing great! </strong> </p>
       </section>

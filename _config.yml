@@ -12,10 +12,31 @@ collections:
      link: /notes/
      display: true
      output: true
-   qm_grad:
+   astroA_grad:
+     display: False
+     output: true
+   astroB_grad:
      display: False
      output: true
    cm_grad:
+     display: False
+     output: true
+   cosmo_grad:
+     display: False
+     output: true
+   gals_grad:
+     display: False
+     output: true
+   ism_grad:
+     display: False
+     output: true
+   obs_grad:
+     display: False
+     output: true
+   qm_grad:
+     display: False
+     output: true
+   stars_grad:
      display: False
      output: true
 

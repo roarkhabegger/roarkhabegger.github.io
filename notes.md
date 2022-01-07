@@ -6,21 +6,90 @@ permalink: /notes/
 
 Here is a list of course notes for various classes I have taken.
 
+<h1> <center> Graduate Astronomy </center> </h1>
 
-<h2> Graduate Quantum Mechanics </h2>
+<h2> Radiation </h2>
 <h4>
 <ul>
-{% for lesson in site.qm_grad by lesson.lessonNum reversed %}
+{% for lesson in site.astroA_grad by lesson.lessonNum reversed %}
     <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
 {% endfor %}
 </ul>
 </h4>
 
-<h2> Graduate Classical Mechanics </h2>
+<h2> Dynamics </h2>
+<h4>
+<ul>
+{% for lesson in site.astroB_grad by lesson.lessonNum reversed %}
+    <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
+{% endfor %}
+</ul>
+</h4>
+
+<h2> Observational Astronomy </h2>
+<h4>
+<ul>
+{% for lesson in site.obs_grad by lesson.lessonNum reversed %}
+    <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
+{% endfor %}
+</ul>
+</h4>
+
+
+<h2> Stellar Structure & Evolution </h2>
+<h4>
+<ul>
+{% for lesson in site.stars_grad by lesson.lessonNum reversed %}
+    <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
+{% endfor %}
+</ul>
+</h4>
+
+
+<h2> Observational Cosmology </h2>
+<h4>
+<ul>
+{% for lesson in site.cosmo_grad by lesson.lessonNum reversed %}
+    <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
+{% endfor %}
+</ul>
+</h4>
+
+<h2> Galaxies </h2>
+<h4>
+<ul>
+{% for lesson in site.gals_grad by lesson.lessonNum reversed %}
+    <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
+{% endfor %}
+</ul>
+</h4>
+
+<h2> Interstellar Medium </h2>
+<h4>
+<ul>
+{% for lesson in site.ism_grad by lesson.lessonNum reversed %}
+    <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
+{% endfor %}
+</ul>
+</h4>
+
+<h1> <center> Graduate Physics </center> </h1>
+
+<h2> Classical Mechanics </h2>
 <h4>
 <ul>
 {% for lesson in site.cm_grad by lesson.lessonNum reversed %}
    <li><a href="{{ lesson.permalink }}"> {{ lesson.title }} </a></li>
+{% endfor %}
+</ul>
+</h4>
+
+
+<h2> Quantum Mechanics </h2>
+<h4>
+<ul>
+{% for lesson in site.qm_grad by lesson.lessonNum reversed %}
+    <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
 {% endfor %}
 </ul>
 </h4>
