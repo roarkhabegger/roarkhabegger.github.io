@@ -4,6 +4,7 @@ layout: lesson_default
 permalink: /notes/astroA_grad/lec01/
 lessonNum: 1
 ---
+
 Astronomy is completely dependent on *light*. For thousands of years, human beings have looked up at the night sky and wondered about the flickering pinpricks of light. To study astronomy and learn about our universe, we need to know a lot about light. This note series is focused on light and the stuff which makes that light, providing you a basic set of physics knowledge for astronomy.
 
 The only kind of light our eyes can see is electromagnetic waves, and our eyes can only see a small subset of electromagnetic waves! Maxwell's partial differential equations for the Electric $\vec{E}$ and magnetic $\vec{B}$ fields imply these fields vary with position in space $\vec{r}$ and time $t$ depending on charge density $\rho$ and currents $\vec{j}$:
@@ -78,4 +79,4 @@ The weirdest part of this definition is $d\Omega$, which is a differential of so
 
 A ray intersecting the area $dA$ with angle $\theta$ with respect to the area normal is counted as part of $dE$ if its frequency is $\nu \in (\nu, \nu + d\nu)$, if it passes the area at a time $t \in (t+dt)$, and if the ray passes through the solid angle increment $d\Omega$.
 
-All these differentials can be confusing, but they allow us to learn how light interacts with a detector (on the end of a telescope, for instance) as well as how it is emitted from astronomical objects. 
+All these differentials can be confusing, but they allow us to learn how light interacts with a detector (on the end of a telescope, for instance) as well as how it is emitted from astronomical objects.
