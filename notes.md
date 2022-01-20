@@ -84,6 +84,15 @@ Here is a list of course notes for various classes I have taken.
 </ul>
 </h4>
 
+<h2> Electromagnetism </h2>
+<h4>
+<ul>
+{% for lesson in site.em_grad by lesson.lessonNum reversed %}
+   <li><a href="{{ lesson.permalink }}"> {{ lesson.title }} </a></li>
+{% endfor %}
+</ul>
+</h4>
+
 
 <h2> Quantum Mechanics </h2>
 <h4>

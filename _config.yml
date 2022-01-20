@@ -24,6 +24,9 @@ collections:
    cosmo_grad:
      display: False
      output: true
+   em_grad:
+     display: False
+     output: true
    gals_grad:
      display: False
      output: true
