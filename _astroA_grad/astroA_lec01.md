@@ -65,7 +65,7 @@ $$ P_\nu = \frac{1}{3}  u_\nu $$
 If we think back to thermodynamics, this result makes sense. In thermodynamics, an adiabatic gas has a relationship between energy and pressure defined by an adiabatic exponent $\gamma$:
 
 
-$$ P = \frac{1}{\gamma - 1}  u $$
+$$ P = \left( \gamma - 1 \right)  u $$
 
 For radiation, we could use $\gamma = \frac{4}{3}$. That value is the same for a gas relativistic particles. Convenient, considering a radiation field is a relativistic gas whose particles have mass $m \rightarrow 0$.
 
