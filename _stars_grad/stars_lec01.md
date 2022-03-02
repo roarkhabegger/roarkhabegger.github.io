@@ -63,7 +63,7 @@ So let's put this criterion in terms of temperature, because it is easier for us
 
 $$ P = \frac{\rho}{\bar{m}} k_B T$$
 
-where $\bar{m}$ is the average mass per particle in the gas and $k_B$ is Boltzmann's constant. Taking a derivative of this equation with respect too radius, we get
+where $\bar{m}$ is the average mass per particle in the gas and $k_B$ is Boltzmann's constant. Taking a derivative of this equation with respect to radius, we get
 
 $$ \frac{\partial P}{\partial r} = \frac{\rho}{\bar{m}} k_B \frac{\partial T}{\partial r} + \frac{1}{\bar{m}} k_B T \frac{\partial \rho}{\partial r} $$
 
@@ -74,7 +74,7 @@ $$ \frac{1}{P}\frac{\partial P}{\partial r} = \frac{1}{T} \frac{\partial T}{\par
 $$ \frac{1}{\rho} \frac{\partial \rho}{\partial r}
 = \frac{1}{P}\frac{\partial P}{\partial r}  - \frac{1}{T} \frac{\partial T}{\partial r} $$
 
-Therefore, the original inequality is
+Therefore, the condition for convection is
 
 $$ \frac{\rho}{P}\frac{\partial P}{\partial r}  - \frac{\rho}{T} \frac{\partial T}{\partial r} >
   \frac{\rho}{P}\frac{\partial P}{\partial r} \bigg|_\mathrm{ad}
@@ -95,4 +95,4 @@ Here is the final trick: *assume the temperature decreases with radius*. Then th
 $$  \left| \frac{\partial T}{\partial r} \right|> \left|
 \frac{\partial T}{\partial r} \right|_\mathrm{ad}  $$
 
-Therefore, if the temperature of the atmosphere decreases more than the temperature of our bubble over a distance $\Delta r$, then the bubble will still be hotter than the atmosphere at $r + \Delta r$ and it will continue to float upward! This criterion is met in convective regions of the sun.
+Therefore, if the temperature of the atmosphere decreases more than the temperature of our bubble over a distance $\Delta r$, then the bubble will still be hotter than the atmosphere at $r + \Delta r$ and it will continue to float upward! This criterion for an atmospheric region in a star to be convective.
