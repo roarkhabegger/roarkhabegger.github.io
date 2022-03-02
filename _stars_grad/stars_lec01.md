@@ -4,7 +4,7 @@ layout: lesson_default
 permalink: /notes/stars_grad/lec01/
 lessonNum: 1
 ---
-After multiple times of re-deriving the criterion for stellar convection (losing hair, crying, and arguing over the direction of an inequality), I am finally writing it down. I want to thank to BA, IL, RM, MR, and LS for bearing with me and identifying every place I forgot high school algebra.
+After multiple times of re-deriving the criterion for stellar convection (pulling hair, crying, and arguing over the direction of an inequality), I am finally writing it down. Big thanks to BA, IL, RM, MR, and LS for bearing with me and identifying every place I forgot high school algebra.
 
 In any atmosphere (the Earth, an exoplanet, or a star), there is a usually temperature gradient. This gradient can be stable or unstable to small perturbations of gas. For example, if I heat air and keep it trapped in a balloon, then the balloon will soar upward. That is what a hot air balloon is! In a star, there are tons of these balloons turning over each other in *convective zones*.
 
