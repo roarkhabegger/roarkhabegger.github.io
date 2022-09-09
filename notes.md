@@ -6,7 +6,47 @@ permalink: /notes/
 
 Here is a list of course notes for various classes I have taken.
 
-<h1> <center> Graduate Astronomy </center> </h1>
+
+<h1> <center> Undergraduate Physics </center> </h1>
+
+<h2> Classical Mechanics </h2>
+<h4>
+<ul>
+{% for lesson in site.cm_ug by lesson.lessonNum reversed %}
+    <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
+{% endfor %}
+</ul>
+</h4>
+
+<h2> Electrodynamics </h2>
+<h4>
+<ul>
+{% for lesson in site.em_ug by lesson.lessonNum reversed %}
+    <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
+{% endfor %}
+</ul>
+</h4>
+
+<h2> Quantum Mechanics </h2>
+<h4>
+<ul>
+{% for lesson in site.qm_ug by lesson.lessonNum reversed %}
+    <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
+{% endfor %}
+</ul>
+</h4>
+
+<h2> Statistical Mechanics & Thermodynamics </h2>
+<h4>
+<ul>
+{% for lesson in site.sm_ug by lesson.lessonNum reversed %}
+    <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
+{% endfor %}
+</ul>
+</h4>
+
+
+<h1> <center> Astronomy </center> </h1>
 
 <h2> Radiation </h2>
 <h4>

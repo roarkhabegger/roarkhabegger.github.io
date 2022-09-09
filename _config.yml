@@ -21,10 +21,16 @@ collections:
    cm_grad:
      display: False
      output: true
+   cm_ug:
+     display: False
+     output: true
    cosmo_grad:
      display: False
      output: true
    em_grad:
+     display: False
+     output: true
+   em_ug:
      display: False
      output: true
    gals_grad:
@@ -39,7 +45,13 @@ collections:
    qm_grad:
      display: False
      output: true
+   qm_ug:
+     display: False
+     output: true
    stars_grad:
+     display: False
+     output: true
+   sm_ug:
      display: False
      output: true
 
