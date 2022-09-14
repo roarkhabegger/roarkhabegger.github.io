@@ -4,9 +4,11 @@ layout: default
 permalink: /notes/
 ---
 
-Here is a list of course notes for various classes I have taken.
+Here is a list of course notes I have put together.
 
-
+<!-- ################# -->
+<!-- UNDERGRAD PHYSICS -->
+<!-- ################# -->
 <h1> <center> Undergraduate Physics </center> </h1>
 
 <h2> Classical Mechanics </h2>
@@ -18,15 +20,15 @@ Here is a list of course notes for various classes I have taken.
 </ul>
 </h4>
 
-<h2> Electrodynamics </h2>
+<!-- <h2> Electrodynamics </h2>
 <h4>
 <ul>
 {% for lesson in site.em_ug by lesson.lessonNum reversed %}
     <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
 {% endfor %}
 </ul>
-</h4>
-
+</h4> -->
+<!--
 <h2> Quantum Mechanics </h2>
 <h4>
 <ul>
@@ -34,18 +36,20 @@ Here is a list of course notes for various classes I have taken.
     <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
 {% endfor %}
 </ul>
-</h4>
+</h4> -->
 
-<h2> Statistical Mechanics & Thermodynamics </h2>
+<!-- <h2> Statistical Mechanics & Thermodynamics </h2>
 <h4>
 <ul>
 {% for lesson in site.sm_ug by lesson.lessonNum reversed %}
     <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
 {% endfor %}
 </ul>
-</h4>
+</h4> -->
 
-
+<!-- ################# -->
+<!-- ASTRONOMY         -->
+<!-- ################# -->
 <h1> <center> Astronomy </center> </h1>
 
 <h2> Radiation </h2>
@@ -56,7 +60,7 @@ Here is a list of course notes for various classes I have taken.
 {% endfor %}
 </ul>
 </h4>
-
+<!--
 <h2> Dynamics </h2>
 <h4>
 <ul>
@@ -64,16 +68,16 @@ Here is a list of course notes for various classes I have taken.
     <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
 {% endfor %}
 </ul>
-</h4>
+</h4> -->
 
-<h2> Observational Astronomy </h2>
+<!-- <h2> Observational Astronomy </h2>
 <h4>
 <ul>
 {% for lesson in site.obs_grad by lesson.lessonNum reversed %}
     <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
 {% endfor %}
 </ul>
-</h4>
+</h4> -->
 
 
 <h2> Stellar Structure & Evolution </h2>
@@ -86,7 +90,7 @@ Here is a list of course notes for various classes I have taken.
 </h4>
 
 
-<h2> Observational Cosmology </h2>
+<!-- <h2> Observational Cosmology </h2>
 <h4>
 <ul>
 {% for lesson in site.cosmo_grad by lesson.lessonNum reversed %}
@@ -111,10 +115,13 @@ Here is a list of course notes for various classes I have taken.
     <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
 {% endfor %}
 </ul>
-</h4>
+</h4> -->
 
+<!-- ################# -->
+<!-- GRAD PHYSICS      -->
+<!-- ################# -->
 <h1> <center> Graduate Physics </center> </h1>
-
+<!--
 <h2> Classical Mechanics </h2>
 <h4>
 <ul>
@@ -122,8 +129,8 @@ Here is a list of course notes for various classes I have taken.
    <li><a href="{{ lesson.permalink }}"> {{ lesson.title }} </a></li>
 {% endfor %}
 </ul>
-</h4>
-
+</h4> -->
+<!--
 <h2> Electromagnetism </h2>
 <h4>
 <ul>
@@ -131,7 +138,7 @@ Here is a list of course notes for various classes I have taken.
    <li><a href="{{ lesson.permalink }}"> {{ lesson.title }} </a></li>
 {% endfor %}
 </ul>
-</h4>
+</h4> -->
 
 
 <h2> Quantum Mechanics </h2>

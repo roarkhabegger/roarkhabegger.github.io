@@ -12,47 +12,52 @@ collections:
      link: /notes/
      display: true
      output: true
+   poems:
+     title: Poetry
+     link: /poems/
+     display: false
+     output: true
    astroA_grad:
-     display: False
+     display: false
      output: true
    astroB_grad:
-     display: False
+     display: false
      output: true
    cm_grad:
-     display: False
+     display: false
      output: true
    cm_ug:
-     display: False
+     display: false
      output: true
    cosmo_grad:
-     display: False
+     display: false
      output: true
    em_grad:
-     display: False
+     display: false
      output: true
    em_ug:
-     display: False
+     display: false
      output: true
    gals_grad:
-     display: False
+     display: false
      output: true
    ism_grad:
-     display: False
+     display: false
      output: true
    obs_grad:
-     display: False
+     display: false
      output: true
    qm_grad:
-     display: False
+     display: false
      output: true
    qm_ug:
-     display: False
+     display: false
      output: true
    stars_grad:
-     display: False
+     display: false
      output: true
    sm_ug:
-     display: False
+     display: false
      output: true
 
 #   Python:

@@ -3,11 +3,12 @@ layout: projects_default
 permalink: /projects/apsdpp2021/
 title: DPP Poster 2021
 ---
+# APS DPP 2021 Annual Meeting Poster: Buoyancy of Cosmic Ray Loaded Magnetic Flux Tubes in the Galactic Disk
+
+<object data="/assets/Buoyancy_of_Cosmic_Ray_Loaded_Magnetic_Flux_Tubes_in_the_Galactic_Disk.pdf" type="application/pdf" width="90%" height=550px>
+</object>
 
 
-# APS DPP 2021 Annual Meeting
-
-Below are figure captions for my poster, assuming I am not at the poster or available to explain the figures!
 
 ### Figure 1
 This diagram illustrates the simulation setup. We use a hyperbolic tangent gravitational acceleration (red arrows) which changes direction at the midplane, $z=0$. The magnetic field (blue arrow) is initially pointed in the $\hat{x}$ direction, and varies such that magnetic pressure decays exponentially with distance from the midplane and is a scalar multiple of the gas pressure. We inject cosmic rays from a Supernova slightly above the midplane (shown as a yellow circle).

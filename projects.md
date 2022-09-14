@@ -1,8 +1,16 @@
 ---
-title: Home
+title: Research Projects
 layout: default
 permalink: /projects/
 ---
 
-This link has the figure captions for my APS DPP 2021 Poster:
-[Figure Captions](/projects/apsdpp2021/)
+## Cosmic Ray Injections in a Galactic Disk
+
+
+
+### Papers & Presentations from this research:
+
+[Poster](/projects/apsdpp2021/) at the American Physical Society Division of Plasma Physics meeting in 2021
+
+
+## Coscaling Grid in Athena++
