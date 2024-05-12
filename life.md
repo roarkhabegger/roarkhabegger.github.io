@@ -6,4 +6,9 @@ permalink: /life/
 
 Random thoughts and musings about life.
 
-
+<h2> Recent Posts </h2>
+<h4>
+<ul>
+{% for post in site.life by post.num %}
+    <li><a href="{{ post.permalink }}">{{ post.title }}  </a></li>
+{% endfor %}
