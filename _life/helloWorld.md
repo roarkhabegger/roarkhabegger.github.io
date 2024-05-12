@@ -1,6 +1,6 @@
 ---
 title: Hello World
-layout: lesson_default
+layout: default
 permalink: /life/hello_world
 num: 1
 ---

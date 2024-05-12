@@ -13,7 +13,7 @@ collections:
      display: true
      output: true
    life:
-     title: Life
+     title: Life Outside 
      link: /life/
      display: true
      output: true
