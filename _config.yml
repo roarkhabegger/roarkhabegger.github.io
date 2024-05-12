@@ -12,10 +12,10 @@ collections:
      link: /notes/
      display: true
      output: true
-   poems:
-     title: Poetry
-     link: /poems/
-     display: false
+   life:
+     title: Life
+     link: /life/
+     display: true
      output: true
    astroA_grad:
      display: false
