@@ -4,13 +4,12 @@ layout: default
 permalink: /
 ---
 
-Hello! My name is Roark Habegger, I am a graduate student in Astronomy at the University of Wisconsin - Madison.
+Hello! My name is Roark Habegger, I am currently a graduate student in Astronomy at the University of Wisconsin - Madison. I study plasma astrophysics and attempt to improve our understanding of the complex systems scattered throughout our universe. 
 
-![Me, drinking coffee](/assets/people_Habegger_Roark.png){:height="180px" width="180px"}
+![chalk > dry erasemarkers](/assets/self.png){:height="180px" width="180px"}
+
+This website contains information about myself and my research projects, along with notes from various courses. Please email me with any questions or comments.
 
 
-This website contains information about myself and my research projects, along with notes from various courses I have taken.
-
-
-<object data="/assets/Roark_Habegger_CV.pdf" type="application/pdf" width="90%" height=800px>
+<object data="/assets/RoarkCV.pdf" type="application/pdf" width="90%" height=800px>
 </object>

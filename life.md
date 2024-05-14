@@ -4,7 +4,8 @@ layout: default
 permalink: /life/
 ---
 
-Random thoughts and musings about life.
+<h2> Bloggy Things </h2>
+This is just a place for me to gather my thoughts. I'll add projects which may not warrant a paper, or comments on a book. If I ever get back into writing poetry, I'll post those here, too. 
 
 <h2> Posts </h2>
 <h4>
