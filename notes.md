@@ -7,6 +7,13 @@ permalink: /notes/
 Here is a list of course notes I have put together. I look forward to adding to them in the future once I begin teaching regularly. 
 
 <!-- ################# -->
+<!-- Computational Methods -->
+<!-- ################# -->
+<h1> <center> Computational Methods </center> </h1>
+Quick Intro to Python Coding and Numerical Methods: <li><a href="https://github.com/roarkhabegger/PythonForThePhysicist">https://github.com/roarkhabegger/PythonForThePhysicist </a></li>
+
+
+<!-- ################# -->
 <!-- UNDERGRAD PHYSICS -->
 <!-- ################# -->
 <h1> <center> Undergraduate Physics </center> </h1>
@@ -46,6 +53,41 @@ Here is a list of course notes I have put together. I look forward to adding to 
 {% endfor %}
 </ul>
 </h4> -->
+
+
+<!-- ################# -->
+<!-- GRAD PHYSICS      -->
+<!-- ################# -->
+<h1> <center> Graduate Physics </center> </h1>
+<!--
+<h2> Classical Mechanics </h2>
+<h4>
+<ul>
+{% for lesson in site.cm_grad by lesson.lessonNum reversed %}
+   <li><a href="{{ lesson.permalink }}"> {{ lesson.title }} </a></li>
+{% endfor %}
+</ul>
+</h4> -->
+<!--
+<h2> Electromagnetism </h2>
+<h4>
+<ul>
+{% for lesson in site.em_grad by lesson.lessonNum reversed %}
+   <li><a href="{{ lesson.permalink }}"> {{ lesson.title }} </a></li>
+{% endfor %}
+</ul>
+</h4> -->
+
+
+<h2> Quantum Mechanics </h2>
+<h4>
+<ul>
+{% for lesson in site.qm_grad by lesson.lessonNum reversed %}
+    <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
+{% endfor %}
+</ul>
+</h4>
+
 
 <!-- ################# -->
 <!-- ASTRONOMY         -->
@@ -116,36 +158,3 @@ Here is a list of course notes I have put together. I look forward to adding to 
 {% endfor %}
 </ul>
 </h4> -->
-
-<!-- ################# -->
-<!-- GRAD PHYSICS      -->
-<!-- ################# -->
-<h1> <center> Graduate Physics </center> </h1>
-<!--
-<h2> Classical Mechanics </h2>
-<h4>
-<ul>
-{% for lesson in site.cm_grad by lesson.lessonNum reversed %}
-   <li><a href="{{ lesson.permalink }}"> {{ lesson.title }} </a></li>
-{% endfor %}
-</ul>
-</h4> -->
-<!--
-<h2> Electromagnetism </h2>
-<h4>
-<ul>
-{% for lesson in site.em_grad by lesson.lessonNum reversed %}
-   <li><a href="{{ lesson.permalink }}"> {{ lesson.title }} </a></li>
-{% endfor %}
-</ul>
-</h4> -->
-
-
-<h2> Quantum Mechanics </h2>
-<h4>
-<ul>
-{% for lesson in site.qm_grad by lesson.lessonNum reversed %}
-    <li><a href="{{ lesson.permalink }}">{{ lesson.title }}  </a></li>
-{% endfor %}
-</ul>
-</h4>
