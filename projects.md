@@ -5,14 +5,16 @@ permalink: /projects/
 ---
 
 ## Cosmic-Ray Feedback on Galactic Disk Stratification
-![Cosmic-Rays and Parker Instability Paraview Render](/assets/paraviewNew.mp4)
 
-<video controls>
+<video height="300px" controls>
   <source src="/assets/paraviewNew.mp4" type="video/mp4">
 </video>
 
 ## Cosmic-Ray Energization in Multiphase Turbulence
-![Cosmic-Rays Feedback in ICM Turbulent Box](https://roarkhabegger.github.io/assets/gammaLumDensTemp.mp4)
+
+<video height="300px" controls>
+  <source src="/assets/gammaLumDensTemp.mp4" type="video/mp4">
+</video>
 
 
 ## Supernova Evolution and Cosmic-Ray Acceleration
