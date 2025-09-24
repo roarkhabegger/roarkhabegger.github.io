@@ -16,7 +16,7 @@ More recently [(Roark Habegger and Ellen G. Zweibel 2025 ApJ 990 75)](https://io
   <source src="/assets/paraviewNew.mp4" type="video/mp4">
 </video>
 
-Hopefully, the importance of the distribution of cosmic-ray pressure is apparent. Cosmic-rays highlight magnetic flux tubes, making them more buoyant. Once these flux tubes rise and breakout to become vertical, the cosmic rays escape. This escape allows cosmic rays to accelerate and heat the thermal plasma, driving a large scale outflow. This outflow has a large mass loading factor since a minimal supernova injectioin rate was necessary to inflate the flux tubes. 
+Hopefully, the importance of the distribution of cosmic-ray pressure is apparent. Cosmic-rays highlight magnetic flux tubes, making them more buoyant. Once these flux tubes rise and breakout to become vertical, the cosmic rays escape. This escape allows cosmic rays to accelerate and heat the thermal plasma, driving a large scale outflow. This outflow has a large mass loading factor since a minimal supernova injection rate was necessary to inflate the flux tubes. 
 
 ## Cosmic-Ray Energization in Multiphase Turbulence
 
