@@ -6,6 +6,7 @@ permalink: /notes/
 
 Here is a list of course notes I have put together. I look forward to adding to them in the future once I begin teaching regularly. In the mean time, this page is permanently under construction. 
 
+
 <!-- ################# -->
 <!-- Computational Methods -->
 <!-- ################# -->
