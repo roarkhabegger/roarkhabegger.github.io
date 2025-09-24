@@ -12,8 +12,7 @@ Hello! My name is Roark Habegger, I am currently a graduate student at the Unive
 
 This website contains information about myself and my research projects, along with notes from various courses. Please email me with any questions or comments.
 
+[Download my CV Here](/assets/RoarkCV.pdf)
 
 <object data="/assets/RoarkCV.pdf" type="application/pdf" width="90%" height=800px>
-    <p>Oops! Your browser doesn't support inline PDFs!</p>
-    <p><a href="/assets/RoarkCV.pdf">Download Instead</a></p>
 </object>
