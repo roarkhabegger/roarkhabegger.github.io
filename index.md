@@ -14,4 +14,6 @@ This website contains information about myself and my research projects, along w
 
 
 <object data="/assets/RoarkCV.pdf" type="application/pdf" width="90%" height=800px>
+    <p>Oops! Your browser doesn't support inline PDFs!</p>
+    <p><a href="/assets/RoarkCV.pdf">Download Instead</a></p>
 </object>
