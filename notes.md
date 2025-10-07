@@ -4,13 +4,14 @@ layout: default
 permalink: /notes/
 ---
 
-Here is a list of course notes I have put together. I look forward to adding to them in the future once I begin teaching regularly. 
+Here is a list of course notes I have put together. I look forward to adding to them in the future once I begin teaching regularly. In the mean time, this page is permanently under construction. 
+
 
 <!-- ################# -->
 <!-- Computational Methods -->
 <!-- ################# -->
 <h1> <center> Computational Methods </center> </h1>
-Quick Intro to Python Coding and Numerical Methods: <li><a href="https://github.com/roarkhabegger/PythonForThePhysicist">https://github.com/roarkhabegger/PythonForThePhysicist </a></li>
+Quick Intro to Python Coding and Numerical Methods: <a href="https://github.com/roarkhabegger/PythonForThePhysicist">https://github.com/roarkhabegger/PythonForThePhysicist </a>
 
 
 <!-- ################# -->
