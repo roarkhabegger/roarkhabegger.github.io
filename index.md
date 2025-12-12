@@ -13,6 +13,7 @@ Hello! My name is Roark Habegger, and I am currently a graduate student at the U
 This website contains information about myself and my research projects, along with notes from various courses. Please email me with any questions or comments.
 
 [Download my CV Here](/assets/RH_CV.pdf)
+
 [Access ADS Library of Publications](https://ui.adsabs.harvard.edu/public-libraries/ER6ydW52RuuVH3nA9geJWA)
 
 <object data="/assets/RH_CV.pdf" type="application/pdf" width="90%" height=800px>
