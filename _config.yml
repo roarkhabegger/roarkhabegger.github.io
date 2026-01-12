@@ -8,7 +8,7 @@ collections:
      display: true
      output: true
    notes:
-     title: Course Notes
+     title: Teaching + Notes
      link: /notes/
      display: true
      output: true
