@@ -8,7 +8,7 @@ permalink: /notes/
 
 I have taught multiple classes, tutored in physics, math and astronomy, and mentored many students in research. Below is a list of course notes I have put together. I look forward to adding to them in the future. In the mean time, this page is permanently under construction. 
 
-Additionally, here are some course reviews by students: <li><a href="{{ notes.reviews }}">Teaching Reviews and Evaluations</a></li>
+Additionally, here are some course reviews by students: [nice_quotes.md](Teaching Reviews and Evaluations)
 
 <!-- ################# -->
 <!-- Computational Methods -->

@@ -1,7 +1,7 @@
 ---
 title: Reviews + Evaluations
 layout: default
-permalink: /notes/reviews
+permalink: /notes/reviews/
 ---
 
 <h1> <center> Teaching Reviews and Evaluations </center> </h1>
