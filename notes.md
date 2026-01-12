@@ -4,11 +4,11 @@ layout: default
 permalink: /notes/
 ---
 
-<h1> <center> Teaching Experience </center> </h1>
+<h1> <center> Course Notes and Teaching </center> </h1>
 
 I have taught multiple classes, tutored in physics, math and astronomy, and mentored many students in research. Below is a list of course notes I have put together. I look forward to adding to them in the future. In the mean time, this page is permanently under construction. 
 
-Additionally, here are some course reviews by students: [nice_quotes.md](Teaching Reviews and Evaluations)
+Additionally, here are some course reviews by students: [Teaching Reviews and Evaluations](nice_quotes.md)
 
 <!-- ################# -->
 <!-- Computational Methods -->
